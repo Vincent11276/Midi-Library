@@ -1,0 +1,14 @@
+C:\Users\Vincent\source\repos\Midi Visualizer\Midi Visualizer\bin\Debug\Midi Visualizer.exe.config
+C:\Users\Vincent\source\repos\Midi Visualizer\Midi Visualizer\bin\Debug\Midi Visualizer.exe
+C:\Users\Vincent\source\repos\Midi Visualizer\Midi Visualizer\bin\Debug\Midi Visualizer.pdb
+C:\Users\Vincent\source\repos\Midi Visualizer\Midi Visualizer\obj\Debug\Midi Visualizer.csprojAssemblyReference.cache
+C:\Users\Vincent\source\repos\Midi Visualizer\Midi Visualizer\obj\Debug\Midi_Visualizer.Properties.Resources.resources
+C:\Users\Vincent\source\repos\Midi Visualizer\Midi Visualizer\obj\Debug\Midi Visualizer.csproj.GenerateResource.cache
+C:\Users\Vincent\source\repos\Midi Visualizer\Midi Visualizer\obj\Debug\Midi Visualizer.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\source\repos\Midi Visualizer\Midi Visualizer\obj\Debug\Midi Visualizer.exe
+C:\Users\Vincent\source\repos\Midi Visualizer\Midi Visualizer\obj\Debug\Midi Visualizer.pdb
+C:\Users\Vincent\source\repos\Midi Visualizer\Midi Visualizer\obj\Debug\Midi_Visualizer.MidiFile.resources
+C:\Users\Vincent\source\repos\Midi Visualizer\Midi Visualizer\bin\Debug\Midi Visualizer.exe.manifest
+C:\Users\Vincent\source\repos\Midi Visualizer\Midi Visualizer\bin\Debug\Midi Visualizer.application
+C:\Users\Vincent\source\repos\Midi Visualizer\Midi Visualizer\obj\Debug\Midi Visualizer.exe.manifest
+C:\Users\Vincent\source\repos\Midi Visualizer\Midi Visualizer\obj\Debug\Midi Visualizer.application
